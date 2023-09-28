@@ -1,16 +1,27 @@
-# curso_alura_primeiro_app
+# Curso Alura - Flutter Widgets e Animações
 
-A new Flutter project.
+![alura_primeiro_curso](https://github.com/tassiogustavo/alura_course_initial/assets/70405308/d05763b6-3776-49b1-bdd9-9d0c57f0fd1f)
 
-## Getting Started
+Este projeto foi desenvolvido como parte de dois cursos da Alura, que faz parte da formação de Flutter. O objetivo deste projeto é demonstrar a criação de widgets, o uso de estados (Stateless e Stateful), manipulação de imagens e animações, controle de estados com Controllers, navegação entre telas e gerenciamento de estados em aplicativos Flutter.
 
-This project is a starting point for a Flutter application.
+## Descrição do Projeto
 
-A few resources to get you started if this is your first Flutter project:
+O projeto consiste em um aplicativo de exemplo que utiliza diversos conceitos do Flutter para criar uma interface de usuário dinâmica e interativa. Ele demonstra como criar e personalizar widgets, trabalhar com imagens, criar animações e gerenciar estados de aplicativos.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Conteúdo do Curso
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O curso da Alura abrange os seguintes tópicos:
+
+- Introdução aos Widgets
+- Stateless Widgets
+- Stateful Widgets
+- Manipulação de Imagens
+- Animações
+- Controllers
+- Navegação entre Telas
+- Gerenciamento de Estados
+
+## Tecnologias Utilizadas
+
+- Flutter
+- Dart
